@@ -3,6 +3,5 @@ fun main(){
 
     var b : String = "Language"
 
-    
     println(a +" "+ b)
-}
+} 
