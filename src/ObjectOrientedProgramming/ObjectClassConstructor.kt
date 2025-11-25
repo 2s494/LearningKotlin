@@ -4,7 +4,7 @@ fun main() {
     var myCar = Cars()
 
     myCar.name = "Ferrari"
-    myCar.model = 2021
+
 
 
 
